@@ -1,22 +1,15 @@
-startup_mode = "Fullscreen"
-import=["~/.config/alacritty/themes/cyber_punk_neon.toml"]
+import=["~/.config/alacritty/alacritty-theme/themes/cyber_punk_neon.toml"]
 
 [env]
 TERM = "alacritty"
 LANG = "en_US.UTF-8"
 LC_CTYPE = "en_US.UTF-8"
 
-[font]
-family = "DejaVuSansM Nerd Font Mono"
-size = 12.0
-
 [font.italic]
 family = "DejaVuSansM Nerd Font Mono"
-style = "Italic"
 
 [font.normal]
 family = "DejaVuSansM Nerd Font"
-style = "Regular"
 
 [font.offset]
 x = 0
